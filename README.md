@@ -85,13 +85,12 @@
 <div align="center">
     <h3><b>GitHub Stats</b></h3>
     <img src="https://github-readme-stats.vercel.app/api?username=naveensingh1212&theme=transparent&show_icons=true&hide_border=false&count_private=true" alt="Naveen's GitHub Stats" />
-</div>
+
 <hr>
 
-<div align="center">
-  <h3><b>GitHub Stats</b></h3>
-  
-  ![Naveen's Stats](https://github-readme-stats.vercel.app/api?username=naveensingh1212&theme=transparent&show_icons=true&hide_border=false&count_private=true)
+
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naveensingh1212&theme=transparent&count_private=true)](https://git.io/streak-stats)
 
   <hr>
 
@@ -101,9 +100,12 @@
 
   ![Leetcode Stats](https://leetcard.jacoblin.cool/naveensingh12?ext=activity)
 
+  <hr>
 
   [![](https://visitcount.itsvg.in/api?id=naveensingh1212&label=Visitors&icon=0&pretty=true)]()
 </div>
+
+
 
 
 
