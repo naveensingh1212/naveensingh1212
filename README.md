@@ -104,6 +104,10 @@
 
   [![](https://visitcount.itsvg.in/api?id=naveensingh1212&label=Visitors&icon=0&pretty=true)]()
 </div>
+<!-- Inspired by github-readme-quotes -->
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+</a>
 
 
 
