@@ -30,6 +30,16 @@
   </strong>
   <hr>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naveensingh1212&label=VISITORS&color=brightgreen&style=for-the-badge" alt="Visitor Badge" />
+</p>
+
+
+
+
+
+
+
   <ul style="list-style-type: none; padding: 0;">
     <li>🔭🚀 <b>I’m currently working on</b>:ReactJS-based applications, and enhancing machine learning model efficiency.</li>
     <li>🌱🧠 <b>I’m currently learning</b>: Advanced Data Structures and Algorithms, Web Development, and Database Management.</li>
