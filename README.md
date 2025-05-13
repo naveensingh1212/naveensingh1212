@@ -41,7 +41,7 @@
 
 
   <ul style="list-style-type: none; padding: 0;">
-    <li>🔭🚀 <b>I’m currently working on</b>:ReactJS-based applications, and enhancing machine learning model efficiency.</li>
+    <li>🔭🚀 <b>I’m currently working on</b>:ReactJS-based applications.</li>
     <li>🌱🧠 <b>I’m currently learning</b>: Advanced Data Structures and Algorithms, Web Development, and Database Management.</li>
     <li>💬 <b>Ask me about</b>: Machine Learning, Web Development with ReactJS, and Competitive Programming.</li>
     <li>📫 <b>How to reach me</b>: Follow the links above to connect 👆, or check out my GitHub and LinkedIn for more details.</li>
