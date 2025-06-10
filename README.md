@@ -10,7 +10,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=3&duration=3500&pause=701&color=82E8F7&background=3CABFF00&center=true&vCenter=true&width=435&lines=Software+Developer;Fullstack+Developer;Learning+Enthusiast%F0%9F%A7%90" alt="Typing SVG" />
   
-  <div align="center">
+ <div align="center">
     <a href="mailto:singhnaveen0402@gmail.com">
       <img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" width="35" height="35" style="margin-right: 10px;" />
     </a>
@@ -23,7 +23,9 @@
     <a href="https://leetcode.com/u/naveensingh12/">
       <img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" width="35" height="35" style="margin-right: 10px;" />
     </a>
-  </div>
+  <a href="https://naveensingh.vercel.app"> <img src="https://img.icons8.com/ios/50/000000/portfolio.png" width="35" height="35" alt="Portfolio Icon" style="margin-right: 10px;" />
+  </a>
+</div>
   </div>
   <strong>
     Passionate about leveraging innovative technologies to solve real-world problems. Eager to contribute to impactful projects in a forward-thinking organization where I can apply my technical skills and creativity to drive meaningful results.
