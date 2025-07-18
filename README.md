@@ -105,13 +105,7 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naveensingh1212&theme=transparent&count_private=true)](https://git.io/streak-stats)
 
   <hr>
-  ## 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/naveensingh1212/naveensingh1212/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 
 
