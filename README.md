@@ -23,8 +23,18 @@
     <a href="https://leetcode.com/u/naveensingh12/">
       <img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" width="35" height="35" style="margin-right: 10px;" />
     </a>
-  <a href="https://naveensingh.vercel.app"> <img src="https://img.icons8.com/ios/50/000000/portfolio.png" width="35" height="35" alt="Portfolio Icon" style="margin-right: 10px;" />
-  </a>
+<a href="https://naveensingh.vercel.app" target="_blank" rel="noopener noreferrer" title="Visit My Portfolio">
+  <img 
+    src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" 
+    width="35" 
+    height="35" 
+    alt="Portfolio Website" 
+    style="margin-right: 10px; vertical-align: middle; transition: transform 0.2s;" 
+    onmouseover="this.style.transform='scale(1.1)'" 
+    onmouseout="this.style.transform='scale(1)'"
+  />
+</a>
+
 </div>
   </div>
   <strong>
@@ -42,13 +52,14 @@
 
 
 
-  <ul style="list-style-type: none; padding: 0;">
-    <li>🔭🚀 <b>I’m currently working on</b>:ReactJS-based applications.</li>
-    <li>🌱🧠 <b>I’m currently learning</b>: Advanced Data Structures and Algorithms, Web Development, and Database Management.</li>
-    <li>💬 <b>Ask me about</b>: Machine Learning, Web Development with ReactJS, and Competitive Programming.</li>
-    <li>📫 <b>How to reach me</b>: Follow the links above to connect 👆, or check out my GitHub and LinkedIn for more details.</li>
-    <li>⚡🐱‍🏍 <b>I’m currently open for</b>: Internship opportunities, collaborative projects, and job offers in software development and machine learning.</li>
-  </ul>
+<ul>
+  <li>🔭🚀 <b>I’m currently working on</b>: Full-stack web applications using the MERN stack, including projects like Aventis  that blend productivity with real-world utility.</li>
+  <li>🌱🧠 <b>I’m currently learning</b>: Core CS fundamentals (OS, DBMS, CN, OOP), and strengthening my DSA problem-solving skills.</li>
+  <li>💬 <b>Ask me about</b>: React.js, Node.js, MongoDB, full-stack development, real-world project planning, and solving DSA problems efficiently.</li>
+  <li>📫 <b>How to reach me</b>: Connect with me on <a href="https://www.linkedin.com/in/naveen-singh12/" target="_blank">LinkedIn</a> or explore my work on <a href="https://github.com/naveensingh1212" target="_blank">GitHub</a>.</li>
+  <li>⚡🐱‍🏍 <b>I’m currently open for</b>: Internship or job opportunities in web development, collaborative open-source projects, and building impactful software solutions.</li>
+</ul>
+
 
 <hr>
 
