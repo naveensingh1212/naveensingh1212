@@ -53,12 +53,15 @@
 
 
 <ul>
-  <li>🔭🚀 <b>I’m currently working on</b>: Full-stack web applications using the MERN stack, including projects like Aventis  that blend productivity with real-world utility.</li>
-  <li>🌱🧠 <b>I’m currently learning</b>: Core CS fundamentals (OS, DBMS, CN, OOP), and strengthening my DSA problem-solving skills.</li>
-  <li>💬 <b>Ask me about</b>: React.js, Node.js, MongoDB, full-stack development, real-world project planning, and solving DSA problems efficiently.</li>
-  <li>📫 <b>How to reach me</b>: Connect with me on <a href="https://www.linkedin.com/in/naveen-singh12/" target="_blank">LinkedIn</a> or explore my work on <a href="https://github.com/naveensingh1212" target="_blank">GitHub</a>.</li>
-  <li>⚡🐱‍🏍 <b>I’m currently open for</b>: Internship or job opportunities in web development, collaborative open-source projects, and building impactful software solutions.</li>
+<ul>
+  <li>🔭🚀 Building MERN stack apps like <i>Aventis</i> with real-world use cases.</li>
+  <li>🌱🧠 Learning core CS subjects and improving DSA problem-solving.</li>
+  <li>💬 Ask me about React.js, Node.js, MongoDB, and project planning.</li>
+  <li>📫 Reach me on <a href="https://www.linkedin.com/in/naveen-singh12/" target="_blank">LinkedIn</a> or check out my <a href="https://github.com/naveensingh1212" target="_blank">GitHub</a>.</li>
+  <li>⚡🐱‍🏍 Open to internships, dev roles, and open-source collaboration.</li>
 </ul>
+
+
 
 
 <hr>
