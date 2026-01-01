@@ -68,7 +68,7 @@
 
 <div align="center">
     <h1>``` Skill Set ```</h1>
-    <h4>Below are several key technologies 🛰 I've utilized or been involved with.👨‍💻📈</h4>
+    <h4>Below are several key technologies 🛰 I've utilized or been involved with.📈</h4>
 </div>
 <hr style="border: 0; border-top: 1px solid #ccc; margin: 20px 0;">
 <div align="center">
