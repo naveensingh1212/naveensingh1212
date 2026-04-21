@@ -1,133 +1,254 @@
 <h1 align="center">
-  Hi 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhqNXQ2djM1cHFjaWR4M2ZuZHU1anI4amFuaGFobnN4ZGVnN3VyYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" 
-       alt="Waving hand animated gif" 
-       width="50" 
-       style="vertical-align: middle;" /> 
-  , I'm <b>Naveen Singh😄</b>
+  Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhqNXQ2djM1cHFjaWR4M2ZuZHU1anI4amFuaGFobnN4ZGVnN3VyYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="45" alt="wave"/> , I'm <b>Naveen Singh 😄</b>
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=3&duration=3500&pause=701&color=82E8F7&background=3CABFF00&center=true&vCenter=true&width=435&lines=Software+Developer;Fullstack+Developer;Learning+Enthusiast%F0%9F%A7%90" alt="Typing SVG" />
-  
- <div align="center">
-    <a href="mailto:singhnaveen0402@gmail.com">
-      <img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" width="35" height="35" style="margin-right: 10px;" />
-    </a>
-    <a href="https://www.linkedin.com/in/naveen-singh12/">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="37" height="35" style="margin-right: 10px;" />
-    </a>
-    <a href="https://x.com/nvn1212_">
-      <img src="https://toppng.com/public/uploads/preview/twitter-x-icon-logo-116902890413xbfexhf8l.webp" width="35" height="35" style="margin-right: 10px;" />
-    </a>
-    <a href="https://leetcode.com/u/naveensingh12/">
-      <img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" width="35" height="35" style="margin-right: 10px;" />
-    </a>
-<a href="https://naveensingh.vercel.app" target="_blank" rel="noopener noreferrer" title="Visit My Portfolio">
-  <img 
-    src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" 
-    width="35" 
-    height="35" 
-    alt="Portfolio Website" 
-    style="margin-right: 10px; vertical-align: middle; transition: transform 0.2s;" 
-    onmouseover="this.style.transform='scale(1.1)'" 
-    onmouseout="this.style.transform='scale(1)'"
-  />
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=3&duration=3500&pause=701&color=82E8F7&background=3CABFF00&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Developer;Agentic+AI+Explorer+%F0%9F%A4%96;Building+Real-World+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<table border="0">
+  <tr>
+    <td align="center">
+      <a href="mailto:2k22.cse.32292@gmail.com">
+        <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt="Gmail"/>
+        <br/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/naveen-singh12/">
+        <img src="https://img.icons8.com/color/48/linkedin-circled.png" width="40" height="40" alt="LinkedIn"/>
+        <br/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/nvn1212_">
+        <img src="https://img.icons8.com/ios-filled/48/ffffff/twitterx.png" width="40" height="40" alt="X"/>
+        <br/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/naveensingh12/">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40" height="40" alt="LeetCode"/>
+        <br/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://naveensingh.vercel.app">
+        <img src="https://img.icons8.com/color/48/domain.png" width="40" height="40" alt="Portfolio"/>
+        <br/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
-  </div>
-  <strong>
-    Passionate about leveraging innovative technologies to solve real-world problems. Eager to contribute to impactful projects in a forward-thinking organization where I can apply my technical skills and creativity to drive meaningful results.
-  </strong>
-  <hr>
 
-<p align="center">
+<br/>
+
+<div align="center">
+  <strong>CS undergrad  &nbsp;|&nbsp; Full Stack Dev &nbsp;|&nbsp; Agentic AI Enthusiast</strong><br/>
+  <sub>Passionate about building scalable, real-world solutions — from MERN apps to multi-agent AI systems.</sub>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=naveensingh1212&label=VISITORS&color=brightgreen&style=for-the-badge" alt="Visitor Badge" />
-</p>
-
-
-
-
-
-
-
-<ul>
-<ul>
-  <li>🔭🚀 Building MERN stack apps like <i>Aventis</i> with real-world use cases.</li>
-  <li>🌱🧠 Learning core CS subjects and improving DSA problem-solving.</li>
-  <li>💬 Ask me about React.js, Node.js, MongoDB, and project planning.</li>
-  <li>📫 Reach me on <a href="https://www.linkedin.com/in/naveen-singh12/" target="_blank">LinkedIn</a> or check out my <a href="https://github.com/naveensingh1212" target="_blank">GitHub</a>.</li>
-  <li>⚡🐱‍🏍 Open to internships, dev roles, and open-source collaboration.</li>
-</ul>
-
-
-
-
-<hr>
-
-<div align="center">
-    <h1>``` Skill Set ```</h1>
-    <h4>Below are several key technologies 🛰 I've utilized or been involved with.📈</h4>
-</div>
-<hr style="border: 0; border-top: 1px solid #ccc; margin: 20px 0;">
-<div align="center">
-    <h3><b>Programming Languages</b></h3>
-    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="Python" height="40"/></a></code>&nbsp;&nbsp;
-    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="C" alt="C" height="40"/></a></code>
-    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" title="Cpp" alt="cpp" height="40"/></a></code>&nbsp;
-       <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" title="JavaScript" alt="javascript" width="40" height="40"/></a></code>&nbsp;
-
 </div>
 
+<hr/>
 
-<div align="center">
-    <h3><b>Frameworks & Technologies</b></h3>
-    <code><a href="#" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" title="Node.js" alt="Node.js" height="40"/></a></code>&nbsp;&nbsp;
-    <code><a href="#" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" title="React" alt="React" height="40"/></a></code>&nbsp;&nbsp;
-    <code><a href="#" target="_blank"><img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" title="Express.js" alt="Express.js" height="40"/></a></code>
-</div>
+## 👨‍💻 About Me
 
+- 🎓 **B.Tech CSE** at Pranveer Singh Institute of Technology, Kanpur &nbsp;(2022 – 2026) &nbsp;· CGPA: **7.71**
+- 🤖 Recently built **MediAgent AI** — a multi-agent AI system using A2A architecture, CrewAI & LLaMA for medical report analysis
+- 🏗️ Built **Aventis** — a full-stack MERN productivity platform with real-time chat, JWT auth & coding contest integrations
+- 🧠 Currently exploring **Agentic AI** — LLM pipelines, RAG, Tool Calling, MCP & multi-agent systems
+- 💬 Ask me about **React.js, Node.js, FastAPI, MongoDB** or anything MERN/AI
+- 🏆 Solved **450+ DSA problems** across platforms &nbsp;|&nbsp; **5★** on HackerRank (C++ & Problem Solving)
+- 📫 Reach me at **2k22.cse.32292@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/naveen-singh12/)
+- ⚡ Open to **internships, dev roles & open-source collaboration**
 
+<hr/>
 
+## 🛠️ Skill Set
 
+> Technologies I work with — from systems programming to agentic AI.
 
-<div align="center">
-    <h3><b>Databases</b></h3>
-    <code><a href="#" target="_blank"><img src="https://pngimg.com/uploads/mysql/mysql_PNG11.png" title="MySql" alt="mysql" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/4b917130-00f5-4f0b-842c-634a29600699" title="MongoDB" alt="MongoDB" height="40"/></a></code>&nbsp;
-</div>
+---
 
+### 🧠 Languages
 
-<div align="center">
-    <h3><b>Tools</b></h3>
-    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VSCode" alt="vscode" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/c19d8e21-c373-47c7-926a-29a4bbe9898c" title="Git" alt="Jupyter" width="40" height="40"/></a></code>&nbsp;
-   </code>&nbsp;
-</div>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++"/><br/>C++
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/><br/>Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript"/><br/>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python"/><br/>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL"/><br/>SQL
+    </td>
+  </tr>
+</table>
 
+---
+
+### 🌐 Frontend
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/><br/>HTML
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/><br/>CSS
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React.js"/><br/>React.js
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚙️ Backend
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br/>Node.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js"/><br/>Express.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/><br/>FastAPI
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🗄️ Database & ODM
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><br/>MongoDB
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mongoose" width="48" height="48" alt="Mongoose"/><br/>Mongoose
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🤖 Agentic AI
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python"/><br/>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/><br/>FastAPI
+    </td>
+    <td align="center" width="100">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" width="48" height="48" alt="LangChain"/><br/>LangChain
+    </td>
+    <td align="center" width="100">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png" width="48" height="48" alt="OpenAI"/><br/>OpenAI API
+    </td>
+    <td align="center" width="100">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" width="48" height="48" alt="Ollama"/><br/>Ollama
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" width="48" height="48" alt="LangGraph"/><br/>LangGraph
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="AI Agents"/><br/>AI Agents
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="48" height="48" alt="RAG"/><br/>RAG
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/api-settings.png" width="48" height="48" alt="Tool Calling"/><br/>Tool Calling
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/vector.png" width="48" height="48" alt="Vector DB"/><br/>Vector DB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/chat.png" width="48" height="48" alt="Prompt Eng"/><br/>Prompt Eng.
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/connected.png" width="48" height="48" alt="A2A Protocol"/><br/>A2A Protocol
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/data-configuration.png" width="48" height="48" alt="MCP"/><br/>MCP
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧰 Tools & DevOps
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br/>GitHub
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br/>VS Code
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/><br/>Postman
+    </td>
+  </tr>
+</table>
 <hr>
 <div align="center">
     
 
 
+<div align="center">
 
-  ![Naveen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naveensingh1212&theme=transparent&show_icons=true&hide_border=false&layout=compact&count_private=true)
+<table border="0" cellspacing="0" cellpadding="10">
+  <tr valign="top">
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveensingh1212&theme=transparent&show_icons=true&hide_border=false&layout=compact&count_private=true" width="340" alt="Top Languages"/>
+    </td>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/naveensingh12?width=340" width="340" alt="LeetCode Stats"/>
+    </td>
+  </tr>
+</table>
 
-  <hr>
+<hr/>
 
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/naveensingh12?ext=activity)
+[![](https://visitcount.itsvg.in/api?id=naveensingh1212&label=Visitors&icon=0&pretty=true)]()
 
-  <hr>
-
-  [![](https://visitcount.itsvg.in/api?id=naveensingh1212&label=Visitors&icon=0&pretty=true)]()
 </div>
-<!-- Inspired by github-readme-quotes -->
-<a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
-</a>
-
 
 
 
