@@ -70,7 +70,7 @@
 - 🧠 Currently exploring **Agentic AI** — LLM pipelines, RAG, Tool Calling, MCP & multi-agent systems
 - 💬 Ask me about **React.js, Node.js, FastAPI, MongoDB** or anything MERN/AI
 - 🏆 Solved **450+ DSA problems** across platforms &nbsp;|&nbsp; **5★** on HackerRank (C++ & Problem Solving)
-- 📫 Reach me at **2k22.cse.32292@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/naveen-singh12/)
+- 📫 Reach me at **singhnaveen0402@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/naveen-singh12/)
 - ⚡ Open to **internships, dev roles & open-source collaboration**
 
 <hr/>
